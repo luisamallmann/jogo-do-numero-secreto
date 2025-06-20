@@ -1,5 +1,5 @@
 ## Jogo do número secreto 🔢
-```desenvolvido no curso "Lógica de programação" na Alura :)```
+```desenvolvido no curso "Lógica de Programação: explore funções e listas" na Alura :)```
 
 ##
 ### Descrição 📝
@@ -28,6 +28,10 @@ estruturas condicionais e manipulação de dados com JavaScript.
 ##
 
 ### 📷 Preview
+
+<p align="center">
+  <img src="preview.gif" alt="Preview do Jogo" width="1000"/>
+</p>
 
 ##
 ### 📁 Como Executar
