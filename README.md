@@ -49,8 +49,19 @@ Este projeto foi essencial para aplicar e reforçar conceitos como:
 
 ##
 ### 🧩 Extras
-Durante o desenvolvimento, foi utilizada uma ferramenta de leitura de tela para testar a acessibilidade do jogo. Utilizei o seguinte código:
-
+Durante o desenvolvimento, utilizei uma ferramenta de leitura de tela para testar a acessibilidade do jogo e garantir uma melhor experiência.
+Utilizando o seguinte código:
+```html
+<script src="https://code.responsivevoice.org/responsivevoice.js"></script>
+```
+```javascript
+function exibirTexto(tag, texto) {
+    let campo = document.querySelector(tag)
+    campo.innerHTML = texto;
+    responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate: 1.2});
+}
+```
+##
 ### 📩 Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/luisamallmann/" target="_blank">
