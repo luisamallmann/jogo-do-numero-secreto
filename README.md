@@ -38,7 +38,7 @@ estruturas condicionais e manipulação de dados com JavaScript.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/repositorio.git
+   git clone https://github.com/luisamallmann/jogo-do-numero-secreto
    ```
 2. Abra o arquivo index.html em seu navegador
 _(ou apenas clique duas vezes no arquivo após baixar o projeto)_
