@@ -1,5 +1,5 @@
 let listaNumeros = [];
-let numeroLimite = 50;
+let numeroLimite = 10;
 let numeroSecreto = numeroAleatorio();
 let tentativas = 1;
 
@@ -24,7 +24,7 @@ function reiniciarJogo() {
 
 function exibirMensagemInicial() {
     exibirTexto('h1', 'Jogo do número secreto');
-    exibirTexto('p', 'Insira um número de 1 a 50');
+    exibirTexto('p', 'Insira um número de 1 a 10');
 }
 
 exibirMensagemInicial();
