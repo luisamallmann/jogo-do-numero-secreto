@@ -63,3 +63,4 @@ function numeroAleatorio() {
             console.log(listaNumeros);
             return numeroEscolhido;
         }
+    }
